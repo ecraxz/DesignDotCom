@@ -55,7 +55,7 @@ img { max-width: 100%; }
 	-o-transition: all .6s; -moz-transition: all .6s; -webkit-transition: all .6s; -ms-transition: all .6s; transition: all .6s;
 }
 /*** para cambiar el color del header**/
-.navbar.navbar-no-bg { padding: 5px 0; background:rgb(76, 87, 92) }
+.navbar.navbar-no-bg { padding: 5px 0; background:none; }
 
 .navbar-right { margin-right: 0; }
 
